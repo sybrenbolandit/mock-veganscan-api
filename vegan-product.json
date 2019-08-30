@@ -1,4 +1,6 @@
-{
-  "name":"Bakpoeder",
-  "barcode":"1111111111"
-}
+[
+  {
+    "id": "038001",
+    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038001.jpg"
+  }
+]
